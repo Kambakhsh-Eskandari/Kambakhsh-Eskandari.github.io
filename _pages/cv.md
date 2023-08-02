@@ -48,6 +48,7 @@ Relevent Coursework
 * Digital Signal Processing (graduate level)
 * Data Structres and Algorithms
 * Linear Algebra
+* Statistics and Probability 
 
 Coursera Certificates
 ======
