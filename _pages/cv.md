@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Electrical Engineering, Babol Noshirvani University of Technology, 2024
+  * CGPA 18.40/20 - (92 / 100)
+  * Rank: 2nd out of 235 in ECE department
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Internship
+  * [Fara AI](https://faraai.ir/): Computer Vision Intern
+ 
+* Fall - Summer 2023: Research Assistant
+  * Babol Noshirvani University of Technology
+  * Duties included: Running experiments on proposed methods, training models, and editing research papers.
+  * Supervisor: Professor [Mehdi Ezoji](https://scholar.google.com/citations?hl=en&user=GMuv8vsAAAAJ&view_op=list_works) [Email](m.ezoji@nit.ac.ir)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Research Assistant
+  * Babol Noshirvani University of Technology
+  * Duties included: Implementing deep-learning algorithms from theory, and getting familiar with Image-Enhancement algorithms. 
+  * Supervisor: Professor [Mehdi Ezoji](https://scholar.google.com/citations?hl=en&user=GMuv8vsAAAAJ&view_op=list_works) [Email](m.ezoji@nit.ac.ir)
+
+* Fall 2022: Teaching Assistance, Statistics and Probability Theory
+ * Students were introduced with Python and basic ML Algorithms
+ * Professor [Javad Kazemitabar](https://web.nit.ac.ir/~j.kazemitabar/)
+ * [Recomendation Letter](https://drive.google.com/file/d/1hF-ZbtmsF53DxBQl_u-qRwKRD7ec37EC/view?usp=sharing)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, Matlab, and C++
+* Deep learning libraries: Tensorflow, Pytorch, scikit-learn
+* Other libraries and frameworks: OpenCV (Python and C++), general Python libraries i.e. matplotlib, scipy, and etc. 
+* Linux
 
-Publications
+Relevent Coursework
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Image Processing (graduate level)
+* Digital Signal Processing (graduate level)
+* Data Structres and Algorithms
+* Linear Algebra
+
+Coursera Certificates
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Generative Adeversarial Networks Specialization
+* Penn State 3D Perception Course
+* Deep Learning Specialization
+* Machine Learning Specialization
