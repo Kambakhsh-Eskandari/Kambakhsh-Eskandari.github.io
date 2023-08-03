@@ -39,9 +39,9 @@ Work experience
   * Supervisor: Professor [Mehdi Ezoji](https://scholar.google.com/citations?hl=en&user=GMuv8vsAAAAJ&view_op=list_works) [Email](m.ezoji@nit.ac.ir)
 
 * Fall 2022: Teaching Assistance, Statistics and Probability Theory
- * Students were introduced with Python and basic ML Algorithms
- * Professor [Javad Kazemitabar](https://web.nit.ac.ir/~j.kazemitabar/)
- * [Recomendation Letter](https://drive.google.com/file/d/1hF-ZbtmsF53DxBQl_u-qRwKRD7ec37EC/view?usp=sharing)
+  * Students were introduced with Python and basic ML Algorithms
+  * Professor [Javad Kazemitabar](https://web.nit.ac.ir/~j.kazemitabar/)
+  * [Recomendation Letter](https://drive.google.com/file/d/1hF-ZbtmsF53DxBQl_u-qRwKRD7ec37EC/view?usp=sharing)
   
 Skills
 ======
