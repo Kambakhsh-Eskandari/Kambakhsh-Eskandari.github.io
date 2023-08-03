@@ -15,6 +15,14 @@ Education
   * CGPA 18.40/20 - (92 / 100)
   * Rank: 2nd out of 235 in ECE department
 
+Research Experience
+======
+* Computer Vision
+* 3D Computer Vision
+* Generative Modelling
+* Self-Driving Cars
+* Computational Photography
+
 Work experience
 ======
 * Summer 2023: Internship
