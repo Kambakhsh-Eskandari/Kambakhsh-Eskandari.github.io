@@ -48,7 +48,9 @@ Relevent Coursework
 * Digital Signal Processing (graduate level)
 * Data Structres and Algorithms
 * Linear Algebra
+* Signals and Systems
 * Statistics and Probability 
+* UCF Computer Vision (Audited)
 
 Coursera Certificates
 ======
