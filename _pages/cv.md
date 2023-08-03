@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. Electrical Engineering, Babol Noshirvani University of Technology, 2024
-  * CGPA 18.40/20 - (92 / 100)
+  * CGPA: 18.40/20 - (92 / 100)
   * Rank: 2nd out of 235 in ECE department
 
 Research Experience
