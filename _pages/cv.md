@@ -19,7 +19,7 @@ Research Interests
 ======
 * Reinforcement Learning
 * Optimization
-* 
+
 Work experience
 ======
  
