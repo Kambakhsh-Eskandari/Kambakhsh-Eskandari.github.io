@@ -17,16 +17,11 @@ Education
 
 Research Interests
 ======
-* Computer Vision
-* 3D Computer Vision
 * Reinforcement Learning
 * Optimization
-* Generative Modelling
-
+* 
 Work experience
 ======
-* Summer 2023: Internship
-  * [Fara AI](https://faraai.ir/): Computer Vision Intern
  
 * Fall - Summer 2023: Research Assistant
   * Babol Noshirvani University of Technology
@@ -58,13 +53,6 @@ Relevent Coursework
 * Linear Algebra
 * Signals and Systems
 * Statistics and Probability 
-* UCF Computer Vision (Audited)
 * David Silver's Reinforcement Learning
 * Stanford's Optmization I & II 
 
-Coursera Certificates
-======
-* Generative Adeversarial Networks Specialization
-* Penn State 3D Perception Course
-* Deep Learning Specialization
-* Machine Learning Specialization
