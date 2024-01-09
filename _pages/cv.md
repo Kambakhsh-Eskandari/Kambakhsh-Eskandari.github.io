@@ -30,13 +30,12 @@ Work experience
 
 * Summer 2022: Research Assistant
   * Babol Noshirvani University of Technology
-  * Duties included: Implementing deep-learning algorithms from theory, and getting familiar with Image-Enhancement algorithms. 
+  * Duties included: Implementing Image Processing algorithms from theory, and getting familiar with Image-Enhancement algorithms. 
   * Supervisor: Professor [Mehdi Ezoji](https://scholar.google.com/citations?hl=en&user=GMuv8vsAAAAJ&view_op=list_works) [Email](m.ezoji@nit.ac.ir)
 
 * Fall 2022: Teaching Assistance, Statistics and Probability Theory
   * Students were introduced with Python and basic ML Algorithms
   * Professor [Javad Kazemitabar](https://web.nit.ac.ir/~j.kazemitabar/)
-  * [Recomendation Letter](https://drive.google.com/file/d/1hF-ZbtmsF53DxBQl_u-qRwKRD7ec37EC/view?usp=sharing)
   
 Skills
 ======
