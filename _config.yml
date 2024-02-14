@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kam Eskandari"
 title_separator          : "-"
 name                     : &name "Kam Eskandari"
-description              : &description "Computer vision and ML researcher"
+description              : &description "ML Enthusiast"
 url                      : https://Kambakhsh-Eskandari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kambakhsh-Eskandari/Kambakhsh-Eskandari.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kam Eskandari"
   avatar           : "profile-pic.jpg"
-  bio              : "Computer Vision Enthusiast (:"
+  bio              : "ML Enthusiast (:"
   location         : "Babol, Iran"
   employer         : "BNUT"
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kam_alexanderis"
+  twitter          :
   vine             :
   weibo            :
   xing             :
