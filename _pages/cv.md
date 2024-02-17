@@ -30,6 +30,9 @@ Research Interests
 
 Work experience
 ======
+
+* Summer 2023: Internship @ Fara-AI
+  * Role: Computer Vision Intern
  
 * Fall - Summer 2023: Research Assistant
   * Babol Noshirvani University of Technology
