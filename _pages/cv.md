@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Publications
+======
+* On the Sample Complexity of Robust Average Reward MDPs: a Reduction-Based Framework (Submitted)
+* Contrast Reinforced GAN with Multi-Classification Constraints to Visible-Infrared Image Fusion (In Progress)
+* A Deep Learning Framework for 2D Contrast Histogram Equalization
+
 Education
 ======
 * B.S. Electrical Engineering, Babol Noshirvani University of Technology, 2024
@@ -17,8 +23,10 @@ Education
 
 Research Interests
 ======
+* Machine Learning
 * Reinforcement Learning
 * Optimization
+* Generative Modelling
 
 Work experience
 ======
