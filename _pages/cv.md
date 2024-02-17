@@ -13,7 +13,7 @@ Publications
 ======
 * On the Sample Complexity of Robust Average Reward MDPs: a Reduction-Based Framework (Submitted)
 * Contrast Reinforced GAN with Multi-Classification Constraints to Visible-Infrared Image Fusion (In Progress)
-* A Deep Learning Framework for 2D Contrast Histogram Equalization
+* A Deep Learning Framework for 2D Contrast Histogram Equalization (In Progress)
 
 Education
 ======
